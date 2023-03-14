@@ -1,0 +1,38 @@
+#mainindex{
+    background-color: rgb(195, 243, 185);
+    text-align: center;
+}
+
+.common{
+    font-family: 'Comic Sans MS', cursive;
+    text-align: center;
+    
+}
+
+ul,ol{
+    list-style-position: inside;
+}
+
+#biryani{
+    background-color: rgba(231, 187, 129, 0.781);
+}
+
+#chai{
+    background-color: rgba(233, 158, 105, 0.856);
+}
+
+#lemonade{
+    background-color: rgb(238, 238, 141);
+}
+
+
+h1{
+    text-align: center;
+    /* font-size: larger; */
+    font-weight: bold;
+}
+
+img{
+    height: 450px;
+    width: auto;
+}
